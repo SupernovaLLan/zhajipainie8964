@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1791017626443149644",
+    "created_at": "2024-05-16T10:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T11:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791051085429498166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659033278756839424",
+          "start": 0,
+          "username": "0431akong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791051085429498166",
+    "in_reply_to_user_id": "1659033278756839424",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791050484306026528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0431akong 好好好疯狂星期四好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1791017626443149644",
+        "created_at": "2024-05-16T10:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T11:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791051085429498166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659033278756839424",
+              "start": 0,
+              "username": "0431akong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791051085429498166",
+        "in_reply_to_user_id": "1659033278756839424",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791050484306026528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0431akong 好好好疯狂星期四好！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1659033278756839424",
+        "conversation_id": "1791017626443149644",
+        "created_at": "2024-05-16T10:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T11:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791050484306026528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1546516414152196098",
+              "start": 0,
+              "username": "zhajipainie8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791050484306026528",
+        "in_reply_to_user_id": "1546516414152196098",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791017626443149644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhajipainie8964 我擦，你不说我都忘了今天是星期四，我去肯德基了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "逃生仓@obusini8964 \n                                     非互关私信除过门不回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "obusini8964"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "距你0.8km",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1788948210305957894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739358632972881920/hH6tJNcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 336,
+          "like_count": 24031,
+          "listed_count": 5,
+          "tweet_count": 27417
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T03:09:00.000Z",
+        "description": "小心我一屁崩死你。",
+        "id": "1659033278756839424",
+        "location": "Jilin",
+        "name": "正宗大肥猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660907732315308034/bNpu85D0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 234,
+          "like_count": 96,
+          "listed_count": 0,
+          "tweet_count": 40
+        },
+        "username": "0431akong",
+        "verified": false
+      }
+    ]
+  }
+}

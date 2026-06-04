@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1788948205440569344",
+        "3_1788948204970762241",
+        "3_1788948206413639680",
+        "3_1788948205889277953"
+      ]
+    },
+    "author_id": "1546516414152196098",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1788948210305957894",
+    "created_at": "2024-05-10T15:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T16:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788948210305957894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/bYqb6kLhLe",
+          "end": 162,
+          "expanded_url": "https://twitter.com/zhajipainie8964/status/1788948210305957894/photo/1",
+          "media_key": "3_1788948205440569344",
+          "start": 139,
+          "url": "https://t.co/bYqb6kLhLe"
+        },
+        {
+          "display_url": "pic.twitter.com/bYqb6kLhLe",
+          "end": 162,
+          "expanded_url": "https://twitter.com/zhajipainie8964/status/1788948210305957894/photo/1",
+          "media_key": "3_1788948204970762241",
+          "start": 139,
+          "url": "https://t.co/bYqb6kLhLe"
+        },
+        {
+          "display_url": "pic.twitter.com/bYqb6kLhLe",
+          "end": 162,
+          "expanded_url": "https://twitter.com/zhajipainie8964/status/1788948210305957894/photo/1",
+          "media_key": "3_1788948206413639680",
+          "start": 139,
+          "url": "https://t.co/bYqb6kLhLe"
+        },
+        {
+          "display_url": "pic.twitter.com/bYqb6kLhLe",
+          "end": 162,
+          "expanded_url": "https://twitter.com/zhajipainie8964/status/1788948210305957894/photo/1",
+          "media_key": "3_1788948205889277953",
+          "start": 139,
+          "url": "https://t.co/bYqb6kLhLe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788948210305957894",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好呀我素鸡排\n08年 166cm44kg\n自残 od 各种乱七八糟的精神病 社交障碍\n门槛68/128 过门就素永久陪聊了很划算\n接图片定制 指定姿势/服饰 伤口定制也接 自带价合适就接\n年龄不够去打工没收入来源就指望点门槛钱吃饭了...🥺\n（不好意思想换个图重新发一下👉👈 https://t.co/bYqb6kLhLe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1788948210305957894].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1788948210305957894",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1788948210305957894"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1788948205440569344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNOe6iLbkAA8GVM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1788948204970762241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNOe6gba4AEJ-wi.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1788948206413639680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNOe6lzbcAAMxRa.jpg",
+        "width": 1535
+      },
+      {
+        "height": 1037,
+        "media_key": "3_1788948205889277953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNOe6j2aUAE4m04.jpg",
+        "width": 1037
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "逃生仓@obusini8964 \n                                     非互关私信除过门不回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "obusini8964"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "距你0.8km",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1788948210305957894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739358632972881920/hH6tJNcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 334,
+          "like_count": 23933,
+          "listed_count": 5,
+          "tweet_count": 27301
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      }
+    ]
+  }
+}

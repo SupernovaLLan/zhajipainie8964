@@ -1,0 +1,158 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1792841126363488686",
+    "created_at": "2024-05-21T09:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T10:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792847572379619538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1655561646247673859",
+          "start": 0,
+          "username": "ooooood909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792847572379619538",
+    "in_reply_to_user_id": "1655561646247673859",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792841126363488686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooooood909 在哪在哪淘宝吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1792841126363488686].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1792841126363488686",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1792841126363488686"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1792841126363488686",
+        "created_at": "2024-05-21T09:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T10:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792847572379619538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1655561646247673859",
+              "start": 0,
+              "username": "ooooood909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792847572379619538",
+        "in_reply_to_user_id": "1655561646247673859",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792841126363488686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooooood909 在哪在哪淘宝吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "逃生仓@obusini8964 \n                                     🚪68/128/288 给的越多我对你态度越好       非互关私信除过门不回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "obusini8964"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "距你0.8km",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1788948210305957894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739358632972881920/hH6tJNcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 336,
+          "like_count": 24154,
+          "listed_count": 5,
+          "tweet_count": 27511
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T13:14:34.000Z",
+        "description": "你们没有一个人有资格批判我",
+        "id": "1655561646247673859",
+        "name": "不安病",
+        "pinned_tweet_id": "1790028589959675932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775234897915019264/it27_7B-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 68,
+          "like_count": 2453,
+          "listed_count": 0,
+          "tweet_count": 3343
+        },
+        "username": "ooooood909",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1788297092135624720",
+    "created_at": "2024-05-09T12:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-09T13:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788548182206726249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1551581108143136773",
+          "start": 0,
+          "username": "XiaoLanTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788548182206726249",
+    "in_reply_to_user_id": "1551581108143136773",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788297092135624720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoLanTT 我天呢真的条件好到有点假"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1788297092135624720].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1788297092135624720",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1788297092135624720"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1788297092135624720",
+        "created_at": "2024-05-09T12:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T13:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788548182206726249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1551581108143136773",
+              "start": 0,
+              "username": "XiaoLanTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788548182206726249",
+        "in_reply_to_user_id": "1551581108143136773",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788297092135624720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoLanTT 我天呢真的条件好到有点假"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "逃生仓@obusini8964 \n                                     非互关私信除过门不回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "obusini8964"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "距你0.8km",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1788396446540316894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739358632972881920/hH6tJNcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 332,
+          "like_count": 23883,
+          "listed_count": 5,
+          "tweet_count": 27249
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T14:52:25.000Z",
+        "description": "游荡的孤高灵魂不需要羁绊之处",
+        "id": "1551581108143136773",
+        "location": "地府",
+        "name": "lan",
+        "pinned_tweet_id": "1771839679400169627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785665905583898624/3BNRg0dA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 706,
+          "like_count": 10150,
+          "listed_count": 4,
+          "tweet_count": 5880
+        },
+        "username": "XiaoLanTT",
+        "verified": false
+      }
+    ]
+  }
+}

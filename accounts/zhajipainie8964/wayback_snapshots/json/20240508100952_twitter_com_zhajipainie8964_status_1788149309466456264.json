@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1788135624266137870",
+    "created_at": "2024-05-08T10:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-08T11:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788149309466456264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1423066536399589377",
+          "start": 0,
+          "username": "youqichuan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788149309466456264",
+    "in_reply_to_user_id": "1423066536399589377",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788144635698909186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youqichuan8964 趴趴我这也没有 甚至吉伊小八的都特别少我服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1788135624266137870",
+        "created_at": "2024-05-08T10:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T11:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788149309466456264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1423066536399589377",
+              "start": 0,
+              "username": "youqichuan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788149309466456264",
+        "in_reply_to_user_id": "1423066536399589377",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788144635698909186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youqichuan8964 趴趴我这也没有 甚至吉伊小八的都特别少我服了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1423066536399589377",
+        "conversation_id": "1788135624266137870",
+        "created_at": "2024-05-08T09:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T10:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788144635698909186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1546516414152196098",
+              "start": 0,
+              "username": "zhajipainie8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788144635698909186",
+        "in_reply_to_user_id": "1546516414152196098",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788135624266137870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhajipainie8964 哎我也是 只抢到了飞鼠趴趴 挂件都被抢完了 不是说不喜欢飞鼠吗受不了了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "逃生仓@obusini8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "obusini8964"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "🚪50",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1777910264832380995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739358632972881920/hH6tJNcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 332,
+          "like_count": 23852,
+          "listed_count": 5,
+          "tweet_count": 27224
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T23:41:27.000Z",
+        "description": "😇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys.mihoyo.com/cloud/m/?utm_s…",
+                "end": 23,
+                "expanded_url": "https://ys.mihoyo.com/cloud/m/?utm_source=default#/",
+                "start": 0,
+                "url": "https://t.co/qH8yP3yUOV"
+              }
+            ]
+          }
+        },
+        "id": "1423066536399589377",
+        "location": "阁楼",
+        "name": "有棲川詩蕭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759524149834489856/05W3bsSY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 305,
+          "like_count": 19494,
+          "listed_count": 6,
+          "tweet_count": 4820
+        },
+        "url": "https://t.co/qH8yP3yUOV",
+        "username": "youqichuan8964",
+        "verified": false
+      }
+    ]
+  }
+}

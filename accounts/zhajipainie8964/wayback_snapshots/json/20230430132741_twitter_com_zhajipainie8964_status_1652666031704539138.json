@@ -1,0 +1,103 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1652666028177121286"
+      ]
+    },
+    "author_id": "1546516414152196098",
+    "conversation_id": "1652666031704539138",
+    "created_at": "2023-04-30T13:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-30T13:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1652666031704539138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/9lXUiXHWqD",
+          "end": 33,
+          "expanded_url": "https://twitter.com/zhajipainie8964/status/1652666031704539138/photo/1",
+          "media_key": "3_1652666028177121286",
+          "start": 10,
+          "url": "https://t.co/9lXUiXHWqD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1652666031704539138",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽尼玛好贱的广告 https://t.co/9lXUiXHWqD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1652666031704539138].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1652666031704539138",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1652666031704539138"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 226,
+        "media_key": "3_1652666028177121286",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fu9y_xXaYAYH8ay.jpg",
+        "width": 1063
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "我是鸡排 不要忘了我 这是小鸡排宝宝@nnk_jp   这是小兰 @LLLLinglan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "nnk_jp"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "LLLLinglan"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1650185634508840961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650545166707732481/Zr6LSB6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 322,
+          "listed_count": 6,
+          "tweet_count": 16224
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1790334170469904384"
+      ]
+    },
+    "author_id": "1546516414152196098",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1790334172533583887",
+    "created_at": "2024-05-14T10:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T11:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790334172533583887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/bnXkq1bQ1O",
+          "end": 49,
+          "expanded_url": "https://twitter.com/zhajipainie8964/status/1790334172533583887/photo/1",
+          "media_key": "3_1790334170469904384",
+          "start": 26,
+          "url": "https://t.co/bnXkq1bQ1O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790334172533583887",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么我下载推特数据那里准备好了但是一直下载失败😿 https://t.co/bnXkq1bQ1O"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1790334172533583887].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1790334172533583887",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1790334172533583887"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_1790334170469904384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNiLcUQaMAAoJ-Q.jpg",
+        "width": 1069
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "逃生仓@obusini8964 \n                                     非互关私信除过门不回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "obusini8964"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "距你0.8km",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1788948210305957894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739358632972881920/hH6tJNcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 337,
+          "like_count": 23999,
+          "listed_count": 5,
+          "tweet_count": 27396
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      }
+    ]
+  }
+}

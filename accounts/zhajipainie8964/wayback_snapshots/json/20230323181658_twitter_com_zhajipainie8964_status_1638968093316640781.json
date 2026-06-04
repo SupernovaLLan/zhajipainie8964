@@ -1,0 +1,158 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1638966773272702979",
+    "created_at": "2023-03-23T18:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-23T18:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1638968093316640781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1496841601640898563",
+          "start": 0,
+          "username": "1_048596_SG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1638968093316640781",
+    "in_reply_to_user_id": "1496841601640898563",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1638967139871649809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1_048596_SG 找到了！是a键"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1638967139871649809].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1638967139871649809",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1638967139871649809"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1638966773272702979",
+        "created_at": "2023-03-23T18:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-23T18:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1638968093316640781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1496841601640898563",
+              "start": 0,
+              "username": "1_048596_SG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1638968093316640781",
+        "in_reply_to_user_id": "1496841601640898563",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1638967139871649809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1_048596_SG 找到了！是a键"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "我很缺钱 给我钱可以加我微信  互关不用  我可以做很多事只要你给的钱足够多\n欢迎小窗和我聊天  下体男滚开我不会理你的",
+        "id": "1546516414152196098",
+        "name": "酥香炸鸡排（接推广 定制",
+        "pinned_tweet_id": "1638240559427907585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629148983263387648/oCnMBYBG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 315,
+          "listed_count": 6,
+          "tweet_count": 10468
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T13:37:30.000Z",
+        "description": "INFP-A型✟武装直升姬✟——责任监护@xiaomenglg中；鸡排宝宝！@zhajipainie8964是崽崽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "xiaomenglg"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "zhajipainie8964"
+              }
+            ]
+          }
+        },
+        "id": "1496841601640898563",
+        "location": "Laniakea Supercluster",
+        "name": "❀嶺芷鈴蘭❀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637287310872936448/U1mUQMQQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 219,
+          "listed_count": 2,
+          "tweet_count": 2902
+        },
+        "username": "1_048596_SG",
+        "verified": false
+      }
+    ]
+  }
+}

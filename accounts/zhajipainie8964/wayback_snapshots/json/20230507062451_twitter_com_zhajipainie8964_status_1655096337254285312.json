@@ -1,0 +1,98 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1655096337254285312",
+    "created_at": "2023-05-07T06:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2023-05-07T06:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1655096337254285312"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1655096337254285312",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "滴胶我还没弄快递也没寄 我手抖的要死😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1655096337254285312",
+        "created_at": "2023-05-07T06:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-07T06:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1655096337254285312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1655096337254285312",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滴胶我还没弄快递也没寄 我手抖的要死😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "我是鸡排 不要忘了我 这是小鸡排宝宝@nnk_jp   这是小兰 @LLLLinglan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "nnk_jp"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "LLLLinglan"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "别找我要互关 想回都回了",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1650185634508840961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650545166707732481/Zr6LSB6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 320,
+          "listed_count": 6,
+          "tweet_count": 17032
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      }
+    ]
+  }
+}

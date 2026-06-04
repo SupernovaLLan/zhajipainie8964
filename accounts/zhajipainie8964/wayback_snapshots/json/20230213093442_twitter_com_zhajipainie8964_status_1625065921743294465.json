@@ -1,0 +1,92 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1625065921743294465",
+    "created_at": "2023-02-13T09:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2023-02-13T10:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1625065921743294465"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1625065921743294465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么我转不了我的推你死了吗推特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1625065921743294465",
+        "created_at": "2023-02-13T09:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-13T10:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1625065921743294465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1625065921743294465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我转不了我的推你死了吗推特"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "喜欢的人是@melley08 \n我很缺钱 给我钱可以加我微信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "melley08"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "name": "香酥炸鸡排",
+        "pinned_tweet_id": "1622993098904330240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1566401067557957634/2NorLH6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 286,
+          "listed_count": 6,
+          "tweet_count": 8169
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      }
+    ]
+  }
+}

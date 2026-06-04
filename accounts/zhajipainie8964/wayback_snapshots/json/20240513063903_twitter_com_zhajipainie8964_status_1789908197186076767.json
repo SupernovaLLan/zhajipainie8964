@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1789908197186076767",
+    "created_at": "2024-05-13T06:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T07:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789908197186076767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Heyrach_0/stat…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/Heyrach_0/status/1789863312642941368",
+          "start": 91,
+          "url": "https://t.co/oSdoo1ib3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789908197186076767",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789863312642941368",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接陪玩，60/h，声音像小学生，语气像一辈子没和人类说话一样生硬，说话水平像小学没毕业的，操作水平是老板带我飞，性格是爱甩老板脸色，打不过时喜欢压力老板，觉得生活太顺心的可以点我。 https://t.co/oSdoo1ib3x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1789908197186076767",
+        "created_at": "2024-05-13T06:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T07:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789908197186076767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Heyrach_0/stat…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/Heyrach_0/status/1789863312642941368",
+              "start": 91,
+              "url": "https://t.co/oSdoo1ib3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789908197186076767",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789863312642941368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接陪玩，60/h，声音像小学生，语气像一辈子没和人类说话一样生硬，说话水平像小学没毕业的，操作水平是老板带我飞，性格是爱甩老板脸色，打不过时喜欢压力老板，觉得生活太顺心的可以点我。 https://t.co/oSdoo1ib3x"
+      },
+      {
+        "attachments": {},
+        "author_id": "1682996525830635520",
+        "conversation_id": "1789863312642941368",
+        "created_at": "2024-05-13T03:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T04:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789863312642941368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789863312642941368",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 470,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "接陪玩，60/h，声音像小学生，语气像一辈子没和人类说话一样生硬，说话水平像小学没毕业的，操作水平是老板带我飞，性格是爱甩老板脸色，打不过时喜欢压力老板，觉得生活太顺心的可以点我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "逃生仓@obusini8964 \n                                     非互关私信除过门不回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "obusini8964"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "距你0.8km",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1788948210305957894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739358632972881920/hH6tJNcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 335,
+          "like_count": 23977,
+          "listed_count": 5,
+          "tweet_count": 27369
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T06:10:26.000Z",
+        "description": "歪斜錯位",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz_001.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz_001.damo3.site/#/register?code=lAdLL6dy",
+                "start": 0,
+                "url": "https://t.co/Q6oFsc0Cgx"
+              }
+            ]
+          }
+        },
+        "id": "1682996525830635520",
+        "location": "🚪188   ↓下面自用VPN",
+        "name": "Heyrach",
+        "pinned_tweet_id": "1754118152903106989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682996994326040576/jSIANlUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3037,
+          "following_count": 541,
+          "like_count": 31305,
+          "listed_count": 15,
+          "tweet_count": 6874
+        },
+        "url": "https://t.co/Q6oFsc0Cgx",
+        "username": "Heyrach_0",
+        "verified": false
+      }
+    ]
+  }
+}

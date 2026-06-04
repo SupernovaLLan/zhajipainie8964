@@ -1,0 +1,138 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1642784445701685249"
+      ]
+    },
+    "author_id": "1546516414152196098",
+    "conversation_id": "1642784448587395072",
+    "created_at": "2023-04-03T07:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-03T07:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1642784448587395072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/XolyGTOuCr",
+          "end": 45,
+          "expanded_url": "https://twitter.com/zhajipainie8964/status/1642784448587395072/photo/1",
+          "media_key": "3_1642784445701685249",
+          "start": 22,
+          "url": "https://t.co/XolyGTOuCr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1642784448587395072",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天呐呜呜呜谢谢你我不纠结了 炸鸡 开点！！ https://t.co/XolyGTOuCr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_1642784445701685249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsxXv-CWAAE4Kgq.png",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1642784445701685249"
+          ]
+        },
+        "author_id": "1546516414152196098",
+        "conversation_id": "1642784448587395072",
+        "created_at": "2023-04-03T07:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-03T07:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1642784448587395072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/XolyGTOuCr",
+              "end": 45,
+              "expanded_url": "https://twitter.com/zhajipainie8964/status/1642784448587395072/photo/1",
+              "media_key": "3_1642784445701685249",
+              "start": 22,
+              "url": "https://t.co/XolyGTOuCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1642784448587395072",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天呐呜呜呜谢谢你我不纠结了 炸鸡 开点！！ https://t.co/XolyGTOuCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "哈哈 我是鸡排宝宝 \n这是小鸡排宝宝@nnk_jp                             \n这是小兰 一款我的超人 @1_048596_SG\n不要私信安慰我了 真的心疼我给我点钱吧😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "nnk_jp"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "1_048596_SG"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "哈哈 我是鸡排宝宝",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1642258962698620928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640842550184648704/4FNQ8yqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 321,
+          "listed_count": 6,
+          "tweet_count": 11861
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      }
+    ]
+  }
+}

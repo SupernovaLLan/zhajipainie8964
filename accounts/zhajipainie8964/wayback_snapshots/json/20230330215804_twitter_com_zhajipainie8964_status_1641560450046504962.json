@@ -1,0 +1,93 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1641560450046504962",
+    "created_at": "2023-03-30T21:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-30T22:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1641560450046504962"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1641560450046504962",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我下次绝对空腹od"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1641560450046504962",
+        "created_at": "2023-03-30T21:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-30T22:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1641560450046504962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1641560450046504962",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我下次绝对空腹od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "哈哈 我是鸡排宝宝 这是小鸡排宝宝@nnk_jp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "nnk_jp"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "哈哈 我是鸡排宝宝",
+        "name": "香酥炸鸡排",
+        "pinned_tweet_id": "1639459661978955776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640842550184648704/4FNQ8yqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 319,
+          "listed_count": 6,
+          "tweet_count": 11412
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      }
+    ]
+  }
+}

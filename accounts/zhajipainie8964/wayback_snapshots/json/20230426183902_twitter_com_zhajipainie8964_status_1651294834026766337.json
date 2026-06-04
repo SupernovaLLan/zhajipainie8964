@@ -1,0 +1,97 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1651294834026766337",
+    "created_at": "2023-04-26T18:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-26T19:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1651294834026766337"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1651294834026766337",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在什么精力都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1651294834026766337",
+        "created_at": "2023-04-26T18:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-26T19:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1651294834026766337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1651294834026766337",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在什么精力都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "我是鸡排 不要忘了我 这是小鸡排宝宝@nnk_jp   这是小兰 @LLLLinglan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "nnk_jp"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "LLLLinglan"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1650185634508840961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650545166707732481/Zr6LSB6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 318,
+          "listed_count": 7,
+          "tweet_count": 15702
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      }
+    ]
+  }
+}

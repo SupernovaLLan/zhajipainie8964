@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1792944276521021665",
+    "created_at": "2024-05-22T23:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T00:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793421371613348277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1228350726981574656",
+          "start": 0,
+          "username": "baibaishuishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793421371613348277",
+    "in_reply_to_user_id": "1228350726981574656",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792944276521021665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baibaishuishui 健全逼带着你那优越感滚吧😂 你以为餐圈女是自愿得精神病自愿这么惨的吗？这都要拉踩一下行了知道你是赛博鸡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1792944276521021665",
+        "created_at": "2024-05-22T23:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T00:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793421371613348277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1228350726981574656",
+              "start": 0,
+              "username": "baibaishuishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793421371613348277",
+        "in_reply_to_user_id": "1228350726981574656",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792944276521021665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baibaishuishui 健全逼带着你那优越感滚吧😂 你以为餐圈女是自愿得精神病自愿这么惨的吗？这都要拉踩一下行了知道你是赛博鸡了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1228350726981574656",
+        "conversation_id": "1792944276521021665",
+        "created_at": "2024-05-21T15:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T16:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792944276521021665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792944276521021665",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 90786,
+          "like_count": 501,
+          "quote_count": 31,
+          "reply_count": 77,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "翻了好几个小女孩的主页发现我简直健全得不能再健全了卧槽你吗。\n你们最好珍惜一下无精神疾病不od不割手不键政不接爸爸活妈妈活不收钱无门槛陪聊，最多发一点黄色废料的我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "逃生仓@obusini8964 \n                                     🚪68/128/288 给的越多我对你态度越好       非互关私信除过门不回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "obusini8964"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "距你0.8km",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1788948210305957894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739358632972881920/hH6tJNcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 335,
+          "like_count": 24175,
+          "listed_count": 5,
+          "tweet_count": 27528
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T16:10:28.000Z",
+        "description": "🔫⬆️/bi 4i /18↑/中文👌ENG👌日本語勉強中/杂多垢 情绪垃圾桶 谨慎关注/无言fo致歉 小女孩们请跟我互关🥺/只在中午、傍晚和晚上上推。",
+        "id": "1228350726981574656",
+        "location": "二人だけのユートピア",
+        "name": "泉-v-",
+        "pinned_tweet_id": "1791529331652743651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791053309320839168/KUIB11RO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 402,
+          "like_count": 5728,
+          "listed_count": 0,
+          "tweet_count": 1543
+        },
+        "username": "baibaishuishui",
+        "verified": false
+      }
+    ]
+  }
+}

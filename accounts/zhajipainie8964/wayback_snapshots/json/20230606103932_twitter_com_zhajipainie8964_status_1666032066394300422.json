@@ -1,0 +1,95 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1666032066394300422",
+    "created_at": "2023-06-06T10:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-06T11:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1666032066394300422"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1666032066394300422",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我买的材料什么的都到了但是唉我懒得动 我再鸽一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1666032066394300422",
+        "created_at": "2023-06-06T10:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-06T11:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1666032066394300422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1666032066394300422",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我买的材料什么的都到了但是唉我懒得动 我再鸽一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "能不能给我点钱我快饿死了   @umulii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "umulii_"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "🚪50",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1664850510472519680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650545166707732481/Zr6LSB6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 315,
+          "listed_count": 8,
+          "tweet_count": 20174
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      }
+    ]
+  }
+}

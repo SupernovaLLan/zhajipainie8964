@@ -1,0 +1,157 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1792307723859624384",
+    "created_at": "2024-05-19T21:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T22:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792309930642547077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "977921612887576576",
+          "start": 0,
+          "username": "seiji_kagamine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792309930642547077",
+    "in_reply_to_user_id": "977921612887576576",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792307723859624384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seiji_kagamine 🥸🥸🥸"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1792307723859624384].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1792307723859624384",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1792307723859624384"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1792307723859624384",
+        "created_at": "2024-05-19T21:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T22:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792309930642547077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "977921612887576576",
+              "start": 0,
+              "username": "seiji_kagamine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792309930642547077",
+        "in_reply_to_user_id": "977921612887576576",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792307723859624384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiji_kagamine 🥸🥸🥸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "逃生仓@obusini8964 \n                                     🚪68/128/288 给的越多我对你态度越好       非互关私信除过门不回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "obusini8964"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "距你0.8km",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1788948210305957894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739358632972881920/hH6tJNcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 337,
+          "like_count": 24122,
+          "listed_count": 5,
+          "tweet_count": 27495
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-25T14:54:16.000Z",
+        "description": "Siempre gusano nunca mariposa💀Lvl: 29 👽               TDA/Depresión mayor/Discapacidad física: 46% Addicted to movies: Extreme Gore - Mondo 🖤 Modify 🖤",
+        "id": "977921612887576576",
+        "name": "Rotten Maggot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1480332414799040517/A5JqrHle_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 435,
+          "like_count": 48625,
+          "listed_count": 0,
+          "tweet_count": 2818
+        },
+        "username": "seiji_kagamine",
+        "verified": false
+      }
+    ]
+  }
+}

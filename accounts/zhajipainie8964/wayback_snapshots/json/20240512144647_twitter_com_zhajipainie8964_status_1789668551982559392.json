@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1546516414152196098",
+    "conversation_id": "1789662817781792936",
+    "created_at": "2024-05-12T14:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T15:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789668551982559392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1521080051994808322",
+          "start": 0,
+          "username": "sen20151001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789668551982559392",
+    "in_reply_to_user_id": "1521080051994808322",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789668364765597901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sen20151001 这样呀谢谢你噜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1546516414152196098",
+        "conversation_id": "1789662817781792936",
+        "created_at": "2024-05-12T14:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T15:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789668551982559392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1521080051994808322",
+              "start": 0,
+              "username": "sen20151001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789668551982559392",
+        "in_reply_to_user_id": "1521080051994808322",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789668364765597901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sen20151001 这样呀谢谢你噜"
+      },
+      {
+        "attachments": {},
+        "author_id": "1521080051994808322",
+        "conversation_id": "1789662817781792936",
+        "created_at": "2024-05-12T14:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T15:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789668364765597901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1546516414152196098",
+              "start": 0,
+              "username": "zhajipainie8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789668364765597901",
+        "in_reply_to_user_id": "1546516414152196098",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789666810184491146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhajipainie8964 白橘绿这三个都是无蔗糖的，用的赤藓糖醇代糖。几乎没有热量。\n白色有点像雪碧，橘色类似橘子汽水，绿色说是奇异果➕青苹果，实际上香精有点盖不住代糖的味道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-11T15:27:10.000Z",
+        "description": "逃生仓@obusini8964 \n                                     非互关私信除过门不回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "obusini8964"
+              }
+            ]
+          }
+        },
+        "id": "1546516414152196098",
+        "location": "距你0.8km",
+        "name": "像素炸鸡排",
+        "pinned_tweet_id": "1788948210305957894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739358632972881920/hH6tJNcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 336,
+          "like_count": 23963,
+          "listed_count": 5,
+          "tweet_count": 27351
+        },
+        "username": "zhajipainie8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T10:52:08.000Z",
+        "description": "",
+        "id": "1521080051994808322",
+        "name": "末日德鲁伊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711324729842507776/ZETNBCma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 185,
+          "like_count": 939,
+          "listed_count": 2,
+          "tweet_count": 1469
+        },
+        "username": "sen20151001",
+        "verified": false
+      }
+    ]
+  }
+}
