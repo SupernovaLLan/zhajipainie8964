@@ -1,8 +1,8 @@
 {
-  "name": "",
+  "name": "像素炸鸡排",
   "username": "@zhajipainie8964",
-  "bio": "",
-  "location": "",
+  "bio": "逃生仓@obusini8964 \n                                     🚪68/128/288 给的越多我对你态度越好       非互关私信除过门不回",
+  "location": "距你0.8km",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
@@ -10,9 +10,9 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 14,
-        "start": 5,
-        "username": "melley08"
+        "end": 15,
+        "start": 3,
+        "username": "obusini8964"
       }
     ]
   }
